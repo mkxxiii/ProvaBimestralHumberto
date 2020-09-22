@@ -1,0 +1,7 @@
+a) DeskTop, SiteWeb e App Relógios
+Pois estes itens são a parte da aplicação que o usuário interage DIRETAMENTE.
+
+b) API e Banco de Dados
+Pois estes itens são a parte de aplicação que o usuário interage INDIRETAMENTE através da integração do Front.
+
+c) O banco de dados tem o papel de armazenar e conter as entidades que representam a aplicação.

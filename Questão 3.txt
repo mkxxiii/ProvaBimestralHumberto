@@ -1,0 +1,4 @@
+A seguinte classe viola a responsabilidade única.
+
+Ela atribui ao cozinheiro a responsabilidade de cozinhar, contabilizar e recolher pratos.
+São 3 responsabilidades completamente diferentes.

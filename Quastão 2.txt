@@ -1,0 +1,5 @@
+a) Através dele é possível criar um repositório para trabalho em grupo em um determinado código. (Evitar o "passar código por pendrive").
+Também é possível revisar alterações antes das mesmas serem efetivadas para todo o grupo, além de possibilitar o versionamento do código.
+
+b) Um GitHub pode ser a capa ou currículo de um programador/analista. Pois através dos projetos nele contido o programador/analista tem um portifólio de seus trabalhos.
+Além disso o GitHub é uma ferramente amplamente adotada. Dominá-la é quase que um requisito para entrar no mercado de trabalho.
